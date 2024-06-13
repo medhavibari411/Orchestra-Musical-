@@ -137,7 +137,7 @@ section{
 .home{
   display: flex;
   align-items: center;
-  background: url(./images/a1.jpg) no-repeat;
+  background: url(a1.jpg) no-repeat;
   min-height: 110vh;
   background-size: cover;
   background-position: center;
